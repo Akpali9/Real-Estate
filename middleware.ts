@@ -48,7 +48,6 @@ export default withAuth(
         if (isPublicRoute) {
           return true
         }
-
         // Require authentication for all other routes
         if (!token) {
           return false
