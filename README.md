@@ -4,6 +4,7 @@ A modern, full-stack real estate website built with Next.js 14, TypeScript, MySQ
 
 ## ✨ Features
 
+
 ### 🏡 **Property Management**
 - **Advanced Property Listings** with detailed information
 - **Image Galleries** with local file storage
