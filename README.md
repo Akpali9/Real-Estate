@@ -138,6 +138,7 @@ UPLOAD_DIR=public/uploads
 MAX_FILE_SIZE=5242880
 ALLOWED_FILE_TYPES=image/jpeg,image/jpg,image/png,image/webp,image/gif
 
+
 # Email Configuration (Optional)
 SMTP_HOST=smtp.gmail.com
 SMTP_PORT=587
